@@ -1,0 +1,25 @@
+_repo: Aanisjarven-rannoilla-karjalaisten-tuttavana_73720
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hagman, Herman
+    gutenberg_agent_id: '57198'
+    url: http://www.gutenberg.org/2009/agents/57198
+description: ''
+gutenberg_issued: '2024-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73720'
+language: fi
+pgterms:marc905: 20240522015922hagman
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Äänisjärven rannoilla karjalaisten tuttavana
+url: http://www.gutenberg.org/ebooks/73720
